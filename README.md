@@ -45,7 +45,7 @@ Click WA logo to Join Support Group 👇
   ### Simple Method
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
-    https://github.com/smoothplr/Sophia.git)
+    https://github.com/smoothplr/Sophia
      </div>
 <br>
 <br >
